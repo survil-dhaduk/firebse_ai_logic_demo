@@ -32,12 +32,20 @@ The app follows Clean Architecture principles with the following structure:
 
 ```
 lib/
+
+
+
+### Gemini Service Integration
+![Gemini Service](screenshot/gemini_service.png)
+
+## Project Structure
 ├── core/
 │   ├── constants/
 │   │   ├── app_colors.dart      # Color scheme and gradients
 │   │   ├── app_strings.dart     # Text constants
 │   │   └── app_styles.dart      # Typography and spacing
 │   └── routes/
+
 │       ├── app_router.dart      # Navigation logic
 │       └── app_routes.dart      # Route constants
 ├── features/
@@ -62,6 +70,22 @@ lib/
 │   └── custom_loader.dart       # Reusable loading widget
 └── main.dart                    # App entry point
 ```
+## Screenshots
+
+Here are the screenshots showcasing the app's UI and features:
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+
+  <div>
+    <img src="screenshot/splash_screen.png" alt="Splash Screen" width="300px" />
+    <p><b>Splash Screen</b></p>
+  </div>
+
+  <div>
+    <img src="screenshot/full_chat%20_screen.png" alt="Full Chat Screen" width="300px" />
+    <p><b>Full Chat Screen</b></p>
+  </div>
+
+</div>
 
 ## Design System
 
