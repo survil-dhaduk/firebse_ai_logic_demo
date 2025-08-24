@@ -32,12 +32,6 @@ The app follows Clean Architecture principles with the following structure:
 
 ```
 lib/
-
-
-
-### Gemini Service Integration
-![Gemini Service](screenshot/gemini_service.png)
-
 ## Project Structure
 ├── core/
 │   ├── constants/
