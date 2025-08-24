@@ -73,19 +73,10 @@ lib/
 ## Screenshots
 
 Here are the screenshots showcasing the app's UI and features:
-<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
-
-  <div>
-    <img src="screenshot/splash_screen.png" alt="Splash Screen" width="300px" />
-    <p><b>Splash Screen</b></p>
-  </div>
-
-  <div>
-    <img src="screenshot/full_chat%20_screen.png" alt="Full Chat Screen" width="300px" />
-    <p><b>Full Chat Screen</b></p>
-  </div>
-
-</div>
+<p >
+  <img src="screenshot/splash_screen.png" alt="Chat Screen 1" width="30%" style="margin-right: 10px;" />
+  <img src="screenshot/full_chat%20_screen.png" alt="Full Chat Screen" width="30%" />
+</p>
 
 ## Design System
 
