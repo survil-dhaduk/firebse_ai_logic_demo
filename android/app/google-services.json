@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682460858282",
+    "project_id": "gemini-flutter-demo",
+    "storage_bucket": "gemini-flutter-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682460858282:android:614b1c83cc94698994cdd3",
+        "android_client_info": {
+          "package_name": "com.example.gemini_ai_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkGiEbVT3eC47TvRl4w-2GCibINctKNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
