@@ -116,25 +116,6 @@ flutter run
 - **cupertino_icons**: iOS-style icons
 - **http**: HTTP client for API calls (for future AI integration)
 
-## Future Enhancements
-
-### Planned Features
-- [ ] Real Gemini AI integration
-- [ ] Message persistence with local storage
-- [ ] Theme switching (light/dark mode)
-- [ ] Message search functionality
-- [ ] Voice input support
-- [ ] Image generation capabilities
-- [ ] Multi-language support
-
-### Technical Improvements
-- [ ] Add Riverpod for state management
-- [ ] Implement proper dependency injection with GetIt
-- [ ] Add unit and widget tests
-- [ ] Implement proper error handling
-- [ ] Add analytics and crash reporting
-- [ ] Optimize performance and memory usage
-
 ## Current Implementation
 
 The app currently uses a mock AI implementation that simulates responses. The chat functionality is fully working with:
